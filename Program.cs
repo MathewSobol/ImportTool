@@ -1,5 +1,5 @@
 ﻿/*
- * Created by SharpDevelop.
+ * Created by asch.
  * User: estr_iti-gn_a_ramsai
  * Date: 23.09.2016
  * Time: 11:40
